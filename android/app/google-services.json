@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97734535486",
+    "project_id": "maudit-841b5",
+    "storage_bucket": "maudit-841b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97734535486:android:2e3ef470496aebe8fea46f",
+        "android_client_info": {
+          "package_name": "com.maudit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97734535486-ihknskdfm0k5mjtfje4qd3rv49ih06cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBvG0UqanQJ4eWqkcXuwu9O48g1mwRI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97734535486-ihknskdfm0k5mjtfje4qd3rv49ih06cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
